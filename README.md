@@ -61,12 +61,12 @@ var hashmap = { 'a': 1, 'b': false, 'c': 'd', 'e': [1, 2] }; // Hashmap
 - *Grouping*: Use parentheses `()` to influence evaluation order.
 
 ```javascript
-var expression1 = 10 * (20 / 2); // Evaluates to 100
-var expression2 = !true & false | true != 5 > 7 - 1; // Evaluates to true
-var expression3 = 5 + 1 * 2 - 3 / 1 == 30; // Evaluates to false
-var expression4 = -5; // Prefix operator
-var expression5 = !true; // Prefix operator
-var expression6 = (5 > 7 == 5 < 7) != false; // Grouping and comparison
+var arithmeticExpression = 10 * (20 / 2); // Evaluates to 100
+var logicalExpression = !true & false | true != 5 > 7 - 1; // Evaluates to true
+var mixedArithmeticComparison = 5 + 1 * 2 - 3 / 1 == 30; // Evaluates to false
+var negativePrefix = -5; // Prefix operator
+var notTruePrefix = !true; // Prefix operator
+var complexComparison = (5 > 7 == 5 < 7) != false; // Grouping and comparison
 ```
 
 #### 3. **Functions**
