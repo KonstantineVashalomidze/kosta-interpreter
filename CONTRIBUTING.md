@@ -37,7 +37,7 @@ Thank you for your interest in contributing to kosta-interpreter! This guide wil
 ### Cloning the Forked Repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/kosta-interpreter.git
+git clone https://github.com/KonstantineVashalomidze/kosta-interpreter.git
 cd kosta-interpreter
 ```
 
