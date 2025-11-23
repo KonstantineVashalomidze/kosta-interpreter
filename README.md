@@ -27,7 +27,7 @@ This project is a Java implementation of a Monkey-like interpreter, inspired by 
 ---
 
 ## Overview
-![sum](sum.png)
+![sum](example.png)
 
 ---
 
